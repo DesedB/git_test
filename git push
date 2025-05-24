@@ -1,0 +1,17 @@
+[33mcommit 18ff540b41692c5b5170ca16ae6f3a50eb8dac6a[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: Jorge <desed.cuentas@gmail.com>
+Date:   Sat May 24 19:17:54 2025 -0400
+
+    Edit README.md and hello_world.txt
+
+[33mcommit 53b6434fd57d51326630a266d1368ceaf4ae2285[m
+Author: Jorge <desed.cuentas@gmail.com>
+Date:   Sat May 24 19:06:44 2025 -0400
+
+    Add hello_world.txt
+
+[33mcommit 98af01e41aa277c6eb6750e92872b8dea14224a3[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: DesedB <212997148+DesedB@users.noreply.github.com>
+Date:   Sat May 24 18:59:53 2025 -0400
+
+    Initial commit
